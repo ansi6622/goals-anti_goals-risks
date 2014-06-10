@@ -3,7 +3,7 @@ Goals, Anti-Goals, and Risks
 
 An important part of the process of developing a product and writing software is understanding the goals, anti-goals (non-goals), and risks of the project. Just like a product, it's important for us to understand these three things in regards to the class, both on a class level and an individual level.
 
-This exercise will allow us to reflect on what we want out of this class and what we're nervous about. Please capture your answers in a file and be prepared to share them with the class.
+This exercise will allow us to reflect on what we want out of this class and what we're nervous about. Please write your answers on paper and be prepared to share them with the class.
 
 ### Goals
 
