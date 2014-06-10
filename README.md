@@ -5,19 +5,19 @@ An important part of the process of developing a product and writing software is
 
 This exercise will allow us to reflect on what we want out of this class and what we're nervous about. Please capture your answers in a file and be prepared to share them with the class.
 
-1. Goals
+### Goals
 
 Goals are things that are an absolute must. Obviously the real world can get in the way of accomplishing goals, but these are the things we realistically feel like we can achieve in our time frame. These help to frame and prioritize our efforts to make sure we're maximizing our time.
 
 An example of a goal is: "Learn just enough software to be employable as a junior engineer" or "Feel confident in interviewing scenarios"
 
-1. Anti-Goals
+### Anti-Goals
 
 Anti-goals are statements that are important, but are not mission critical. These are important to enumerate so that if a decision must be made, we can reflect on whether it falls into the non-goal or goal category. It's also nice to know when you've achieved something you didn't think was possible!
 
 An example of a anti-goal is: "Learn Java" or "Write a Ruby Gem or Framework"
 
-1. Risks
+### Risks
 
 Risks are things that you're worried could jeapardize your learning. These can be anything from internal challenges you control to external situations that you don't.
 
@@ -25,7 +25,7 @@ An example of a risk is: "Having to miss a week of class" or "Being overwhelmed 
 
 ## Task
 
-Create a document in a digital format (google drive). Be prepared to share this with the instructors.
+Write down your answers on a piece of paper. Be prepared to share this with the instructors.
 
 Each task is timeboxed. It's important to use a timer as it keeps you focused, but gives you enough time to let you come up with good answers.
 
